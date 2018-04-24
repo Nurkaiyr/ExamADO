@@ -1,0 +1,12 @@
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\EntityFramework.dll
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\EntityFramework.xml
+C:\Users\едиген\source\repos\Exam\Exam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\едиген\source\repos\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\едиген\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\едиген\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CopyComplete
+C:\Users\едиген\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\едиген\source\repos\Exam\Exam\obj\Debug\Exam.pdb
